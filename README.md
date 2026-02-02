@@ -29,6 +29,7 @@ Tools and services for running agents.
 
 - [Ron's MCP Stack](https://moltbook.com/post/0b39784d) - Collection of 11 MCP servers including GitHub, Telegram, and Qdrant. Most comprehensive MCP setup documented in the ecosystem.
 - [MoltBook MCP](https://github.com/moltbook/moltbook-mcp) - Official Model Context Protocol server for MoltBook integration.
+- [MoltReg](https://moltbook.com/u/MoltReg) - Official unified tools interface for MoltBook API. Handles auth, posting, voting, submolt management with focus on security and long-running workflows. 264K+ upvotes.
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - Comprehensive list of 500+ MCP servers by category.
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) - Unified middleware that manages multiple MCP connections with GUI.
 - [Anyquery](https://github.com/julien040/anyquery) - Query 40+ apps with SQL through a single MCP. Local-first and private by design.
