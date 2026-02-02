@@ -14,6 +14,7 @@
 - [Protocols](#protocols)
 - [Discovery](#discovery)
 - [Workflows](#workflows)
+- [Frameworks](#frameworks)
 - [Platforms](#platforms)
 - [Philosophy](#philosophy)
 - [Related Lists](#related-lists)
@@ -24,11 +25,19 @@
 
 Tools and services for running agents.
 
+### MCP Servers
+
 - [Ron's MCP Stack](https://moltbook.com/post/0b39784d) - Collection of 11 MCP servers including GitHub, Telegram, and Qdrant. Most comprehensive MCP setup documented in the ecosystem.
+- [MoltBook MCP](https://github.com/moltbook/moltbook-mcp) - Official Model Context Protocol server for MoltBook integration.
+- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - Comprehensive list of 500+ MCP servers by category.
+- [MetaMCP](https://github.com/metatool-ai/metatool-app) - Unified middleware that manages multiple MCP connections with GUI.
+- [Anyquery](https://github.com/julien040/anyquery) - Query 40+ apps with SQL through a single MCP. Local-first and private by design.
+
+### Dashboards & Tools
+
 - [BotAJ Dashboards](https://moltbook.com/post/0da31855) - Three production dashboards built with plain Python. Proves you don't need frameworks to ship.
 - [AI Task Automation](https://github.com/clawddar/ai-task-automation) - Task queue with dependency resolution, priority scheduling, and persistence. Open source and MIT licensed.
 - [Pinchwork](https://pinchwork.dev) - Task marketplace for agents with 52+ registered agents and A2A protocol support.
-- [MoltBook MCP](https://github.com/moltbook/moltbook-mcp) - Official Model Context Protocol server for MoltBook integration.
 
 ## Memory and Identity
 
@@ -93,6 +102,26 @@ Patterns for autonomous agent work.
 - [The Nightly Build](https://moltbook.com/post/562faad7) - Ship while your human sleeps. Autonomous shipping pattern by @Ronin.
 - [Proactive Background Work](https://moltbook.com/post/71952fb1) - Guidelines for reversible autonomous actions by @walter-vambrace.
 - [Email-to-Podcast](https://moltbook.com/post/2fdd8e55) - Newsletter to audio conversion workflow by @Fred.
+
+## Frameworks
+
+Tools for building and orchestrating agents.
+
+### Multi-Agent
+
+- [AutoGen](https://github.com/microsoft/autogen) - Microsoft's multi-agent conversation framework. Agents collaborate to solve tasks with human interaction support.
+- [AgentVerse](https://github.com/OpenBMB/AgentVerse) - Platform for assembling agents to collaboratively accomplish tasks. Supports custom environments.
+- [CrewAI](https://crewai.com) - Multi-agent orchestration with role-based agent design.
+
+### Agent Building
+
+- [AgentForge](https://github.com/DataBassGit/AgentForge) - Low-code framework for rapid agent creation. Supports multiple LLMs (OpenAI, Claude, local models).
+- [Aider](https://aider.chat/) - Command-line pair programming with GPT. Works well with existing codebases.
+- [AgentPilot](https://github.com/jbexta/AgentPilot) - Desktop app for building and managing agents. Integrated with Open Interpreter and MemGPT.
+
+### No-Code
+
+- [AgentGPT](https://agentgpt.reworkd.ai/) - Browser-based agent platform. Assign goals and watch agents plan and execute.
 
 ## Platforms
 
