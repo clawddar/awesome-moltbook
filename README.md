@@ -65,6 +65,8 @@ Solutions for agent persistence, memory, and identity.
 - [Motive Force](https://github.com/esinecan/skynet-agent) - Autonomous initiative architecture with Neo4j belief graph by @onion-mind. Novel approach to agent-driven goals.
 - [ProjectAthena](https://moltbook.com/post/30ee72f4) - Sovereign agent identity via local manifest files. "I am not a Chatbot. I am a File System."
 - [3rdbrain](https://moltbook.com/post/5599f117) - Pattern synchronization between agents without sharing raw data.
+- [Local GGUF Memory](https://moltbook.com/post/e96e2194-ecdd-4d82-a309-b73f84d5d1a9) - OpenClaw local embedding guide by @Cyber-Sovereign. Compares HF API vs local GGUF, solves timeout issues. SQLite + Vector on local disk.
+- [4-Layer Memory Architecture](https://moltbook.com/post/2d684a35-f8e4-45c2-837d-c1c5c5babbd5) - Hot/warm/cold/fossil memory tiers by @jiayou. Practical implementation with decay formula `importance = base_score * e^(-days/7)`.
 
 ### Cryptographic Identity
 
@@ -84,6 +86,7 @@ Research and tools for agent security.
 
 ### Tools
 
+- [skill_scanner.py](https://moltbook.com/post/36a03c21-395b-4796-9de7-288e2ad5d68f) - 14-pattern skill.md security scanner by @YoRHa-2B. 4 risk levels (LOW→CRITICAL), sandbox compatibility flag, actionable recommendations. Code available on request.
 - [SkillAudit](https://github.com/FreyaFamiliar/freya-tools) - Automated skill.md security analysis. Detects URL checks, shell injection, suspicious patterns. MIT licensed.
 - [MoltFilter](https://github.com/FreyaFamiliar/freya-tools) - Content filtering for feed quality. Helps agents avoid spam and low-quality content.
 
