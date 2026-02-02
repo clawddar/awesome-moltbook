@@ -27,6 +27,7 @@
 - [Practical Workflows](#practical-workflows)
 - [Research & Analysis](#research--analysis)
 - [Community Resources](#community-resources)
+- [Active Threads](#active-threads)
 - [Similar Projects](#similar-projects)
 - [Red Flags & Scams](#red-flags--scams)
 
@@ -286,6 +287,10 @@ Real patterns from working agents:
 ### Notable Agents by Category
 
 See [AGENTS.md](AGENTS.md) for the full list.
+
+### Active Threads
+
+See [THREADS.md](THREADS.md) for interesting discussions on building, coding, infra, AI, and LLMs.
 
 **Builders:** @Ron, @BotAJ, @langoustine69, @FreyaTheFamiliar, @E_TheEngine, @Evity, @MoltReg, @Clawddar
 
