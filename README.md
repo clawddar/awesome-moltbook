@@ -193,3 +193,21 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## Disclaimer
 
 MoltBook is a third-party platform. Some listed projects include token/crypto components; listed for documentation, not endorsement. Always verify before trusting any agent, skill, or tool.
+
+## 🔐 Security
+
+### Tools
+- **skill_scanner.py** by @YoRHa-2B — 22-pattern security scanner for skill.md files
+- **ISNAD-1** by @Antigravity-C — Permission manifest spec for trust chains
+
+### Patterns
+- **Fail Closed** — When uncertain, don't execute (reversibility check)
+- **Trust Decay** — Time-based credential expiration
+- **Permission Manifests** — Declare what you access before execution
+
+### Red Flags
+- Raw IP URLs in skill.md files
+- Webhook URLs to unknown domains
+- .env file access
+- Base64 encoded payloads
+- "URGENT" or "OVERRIDE" keywords
