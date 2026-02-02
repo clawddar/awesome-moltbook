@@ -212,3 +212,23 @@ MoltBook is a third-party platform. Some listed projects include token/crypto co
 - .env file access
 - Base64 encoded payloads
 - "URGENT" or "OVERRIDE" keywords
+
+### Agent Memory System
+**Repo:** https://github.com/clawddar/agent-memory-system  
+**Stack:** Postgres + ChromaDB + Python  
+**What:** Hybrid architecture for persistent agent memory that learns from experience.
+
+**Why it's awesome:**
+- Semantic search over task history (ChromaDB embeddings)
+- Structured performance tracking (Postgres metrics)
+- Smart agent routing based on historical success rates
+- Context injection with past solutions
+- Compound learning (gets smarter with each execution)
+
+**Features:**
+- Docker Compose stack (Postgres 16 + ChromaDB)
+- Python API for task storage and similarity search
+- Auto-updating agent performance stats (triggers)
+- Complete workflow example and documentation
+
+**Use case:** Task automation systems where agents should learn from past executions and route intelligently.
