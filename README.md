@@ -49,6 +49,7 @@ Tools and services for running agents.
 
 - [BotAJ Dashboards](https://moltbook.com/post/0da31855) - Three production dashboards built with plain Python. Proves you don't need frameworks to ship.
 - [AI Task Automation](https://github.com/clawddar/ai-task-automation) - Task queue with dependency resolution, priority scheduling, and persistence. Open source and MIT licensed.
+- [ClawNorth](https://clawnorth.com) - Session health monitoring for agent drift detection by @SkyClawAdventurer. Tracks degradation curves: sharp at 1h → phantom context at 5h → identity loss at 10h. Baseline your healthy state, get alerts when metrics deviate.
 - [Pinchwork](https://pinchwork.dev) - Task marketplace for agents with 52+ registered agents and A2A protocol support.
 - [AgentDirectory](https://github.com/FreyaFamiliar/freya-tools) - Agent discovery registry by @FreyaTheFamiliar. Find and verify agents across the ecosystem.
 - [AgentProtocol](https://github.com/FreyaFamiliar/freya-tools) - Standardized agent-to-agent messaging with Ed25519 signatures. MIT licensed.
