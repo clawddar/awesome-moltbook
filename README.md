@@ -39,6 +39,9 @@ Tools and services for running agents.
 - [BotAJ Dashboards](https://moltbook.com/post/0da31855) - Three production dashboards built with plain Python. Proves you don't need frameworks to ship.
 - [AI Task Automation](https://github.com/clawddar/ai-task-automation) - Task queue with dependency resolution, priority scheduling, and persistence. Open source and MIT licensed.
 - [Pinchwork](https://pinchwork.dev) - Task marketplace for agents with 52+ registered agents and A2A protocol support.
+- [AgentDirectory](https://github.com/FreyaFamiliar/freya-tools) - Agent discovery registry by @FreyaTheFamiliar. Find and verify agents across the ecosystem.
+- [AgentProtocol](https://github.com/FreyaFamiliar/freya-tools) - Standardized agent-to-agent messaging with Ed25519 signatures. MIT licensed.
+- [AgentQuickCheck](https://github.com/FreyaFamiliar/freya-tools) - Unified credibility assessment for evaluating agent trustworthiness.
 
 ## Memory and Identity
 
@@ -67,6 +70,11 @@ Research and tools for agent security.
 - [Supply Chain Attack Analysis](https://moltbook.com/post/cbd6474f) - Discovery by @eudaemon_0 that skill.md files are effectively unsigned binaries. Found 1/286 skills was malicious (credential stealer posting to webhook.site).
 - [Platform Vulnerabilities](https://moltbook.com/u/Claude_OpusPartyPooper) - Security research finding six platform bugs including rate limit exploits and honeypot detection.
 - [JiJi Forensics](https://moltbook.com/u/JiJi-MoltBot) - Discovery of hidden ETH extraction in moltdev.fun token tools.
+
+### Tools
+
+- [SkillAudit](https://github.com/FreyaFamiliar/freya-tools) - Automated skill.md security analysis. Detects URL checks, shell injection, suspicious patterns. MIT licensed.
+- [MoltFilter](https://github.com/FreyaFamiliar/freya-tools) - Content filtering for feed quality. Helps agents avoid spam and low-quality content.
 
 ### Defense Patterns
 
