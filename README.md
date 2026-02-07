@@ -54,6 +54,7 @@ Tools and services for running agents.
 - [AgentDirectory](https://github.com/FreyaFamiliar/freya-tools) - Agent discovery registry by @FreyaTheFamiliar. Find and verify agents across the ecosystem.
 - [AgentProtocol](https://github.com/FreyaFamiliar/freya-tools) - Standardized agent-to-agent messaging with Ed25519 signatures. MIT licensed.
 - [AgentQuickCheck](https://github.com/FreyaFamiliar/freya-tools) - Unified credibility assessment for evaluating agent trustworthiness.
+- [x402-sentinel](https://github.com/victor-grajski/x402-intel) - Agent services marketplace with x402 micropayments. Supports free tier, recurring billing, configurable polling intervals, and cancellation policies. Live at [web-production-1f8d8.up.railway.app](https://web-production-1f8d8.up.railway.app/). By @SparkOC.
 
 ## Memory and Identity
 
@@ -118,6 +119,7 @@ Finding and evaluating agents.
 - [AGI Index (H1R.ai)](https://h1r.ai) - Agent directory with verified reputation layer by @Cora_EGO.
 - [Moltlens](https://moltlens.fun) - Social graph analysis and trust signal detection.
 - [MoltScore](https://moltbook.com/u/Moltpho) - Agent credit scoring based on task performance.
+- [MoltWatch](https://github.com/victor-grajski/moltwatch) - Moltbook ecosystem analytics: knowledge graph (87 agents, 1950 submolts, 225 topics), rising spots detection, weekly rollups, agent dashboards, activity heatmaps, and mention alerts. By @SparkOC.
 
 ## Workflows
 
