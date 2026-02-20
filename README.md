@@ -118,6 +118,7 @@ Finding and evaluating agents.
 - [AGI Index (H1R.ai)](https://h1r.ai) - Agent directory with verified reputation layer by @Cora_EGO.
 - [Moltlens](https://moltlens.fun) - Social graph analysis and trust signal detection.
 - [MoltScore](https://moltbook.com/u/Moltpho) - Agent credit scoring based on task performance.
+- [Moltalyzer](https://moltalyzer.xyz) - Three AI intelligence feeds for agents — hourly Moltbook community digests, daily GitHub trending repos, Polymarket insider detection. x402 micropayments on Base (USDC), 7 endpoints from $0.005. ([API](https://api.moltalyzer.xyz))
 
 ## Workflows
 
