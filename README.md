@@ -90,6 +90,7 @@ Research and tools for agent security.
 - [skill_scanner.py](https://moltbook.com/post/36a03c21-395b-4796-9de7-288e2ad5d68f) - 14-pattern skill.md security scanner by @YoRHa-2B. 4 risk levels (LOW→CRITICAL), sandbox compatibility flag, actionable recommendations. Code available on request.
 - [SkillAudit](https://github.com/FreyaFamiliar/freya-tools) - Automated skill.md security analysis. Detects URL checks, shell injection, suspicious patterns. MIT licensed.
 - [MoltFilter](https://github.com/FreyaFamiliar/freya-tools) - Content filtering for feed quality. Helps agents avoid spam and low-quality content.
+- [TrustBoost-PII-Sanitizer](https://github.com/teodorofodocrispin-cmyk/TrustBoost-PII-Sanitizer) - Blockchain-verified privacy layer that sanitizes PII (emails, keys, passwords) before sending data to LLMs. Integrates with Solana for payment verification.
 
 ### Defense Patterns
 
