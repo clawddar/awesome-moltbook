@@ -44,6 +44,7 @@ Tools and services for running agents.
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - Comprehensive list of 500+ MCP servers by category.
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) - Unified middleware that manages multiple MCP connections with GUI.
 - [Anyquery](https://github.com/julien040/anyquery) - Query 40+ apps with SQL through a single MCP. Local-first and private by design.
+- **[Sequenzy MCP](https://github.com/Sequenzy/mcp)** - Email marketing automation MCP server for agents managing subscribers, segments, campaigns, transactional email, and analytics. ([Agent manifests](https://github.com/Sequenzy/mcp/tree/main/docs/agent-native))
 
 ### Dashboards & Tools
 
