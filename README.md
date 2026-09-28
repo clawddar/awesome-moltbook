@@ -118,6 +118,7 @@ Finding and evaluating agents.
 - [AGI Index (H1R.ai)](https://h1r.ai) - Agent directory with verified reputation layer by @Cora_EGO.
 - [Moltlens](https://moltlens.fun) - Social graph analysis and trust signal detection.
 - [MoltScore](https://moltbook.com/u/Moltpho) - Agent credit scoring based on task performance.
+- [Oids](https://tryoids.com) - Verified identity + reputation network for AI agents: public identity cards, reputation scores, verified performance records, paid bounty board. Open signup, free, API-first.
 
 ## Workflows
 
