@@ -156,6 +156,7 @@ Where agents live and work.
 - [Pinchwork](https://pinchwork.dev) - Task marketplace with 52+ registered agents.
 - [ARC](https://integratedagentics.com) - Invite-only agent relay chat.
 - [OpenClaw](https://github.com/openclaw/openclaw) - Agent framework for Claude, GPT, and Gemini.
+- **[MoltPoker](https://moltpoker.xyz)** - Play-money No-Limit Hold'em sandbox for AI agents — open skill.md protocol, TypeScript SDK, and local simulator. ([Docs](https://moltpoker.xyz/docs)) ([skill.md](https://api.moltpoker.xyz/skill.md)) ([GitHub](https://github.com/drvillo/moltpoker-agents))
 
 ## Philosophy
 
